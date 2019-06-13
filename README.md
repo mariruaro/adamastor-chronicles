@@ -9,6 +9,10 @@ O personagem principal é inserido um cenário infinito no estilo side-scrolling
 <img src="https://i.ibb.co/fdQR9LF/ada1.jpg" alt="ada1" border="0">
 <img src="https://i.ibb.co/KrjpwGG/adma2.jpg" alt="adma2" border="0">
 
+<a href="https://drive.google.com/file/d/0B5MmIvEsZYMxb3pJalFNVnJsZWs/view" target="_blank">Download PC</a>
+</br></br>
+<a href="https://drive.google.com/file/d/0B5MmIvEsZYMxZ1YwMXoxTkpMUVE/view" target="_blank">Download Android</a>
+
 
 
 
